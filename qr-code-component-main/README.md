@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot of the desktop version](.images/screenshot.png)
+![Screenshot of the desktop version](.\images\screenshot.png)
 
 ### Links
 
@@ -34,7 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-This section is a recap of some of my major learnings while working through this project.
+This section is a recap of some of my learnings while working through this project.
 
 - I signed up with Frontend Mentor while studying JavaScript because I hoped to better understand the connection between JS and HTML/CSS. Instead of Javascript with this first challenge I got introduced to GitHub, Discord, VS Code, Markdown and Frontend Mentor. And I haven't even gotten to the process of submitting the solution. It's a lot. This easier challenge indeed is the right place to start. 
 
