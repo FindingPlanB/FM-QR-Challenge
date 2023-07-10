@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor Challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -36,7 +36,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 This section is a recap of some of my learnings while working through this project.
 
-- I signed up with Frontend Mentor while studying JavaScript because I hoped to better understand the connection between JS and HTML/CSS. Instead of Javascript with this first challenge I got introduced to GitHub, Discord, VS Code, Markdown and Frontend Mentor. And I haven't even gotten to the process of submitting the solution. It's a lot. This easier challenge indeed is the right place to start. 
+- I signed up with Frontend Mentor while studying JavaScript because I hoped to better understand the connection between JS and HTML/CSS. Instead of Javascript with this first challenge I got introduced to GitHub, Discord, VS Code, Markdown, Netlify and Frontend Mentor. And I haven't even gotten to the process of submitting the solution. It's a lot. This easier challenge indeed is the right place to start. 
 
 - I learned that in the four weeks I've been studying JavaScript I already forgot a lot of HTML and CSS. This QR challenge was a good reminder that continued practice is necessary to get skilled in different coding languages.
 
@@ -46,7 +46,7 @@ This section is a recap of some of my learnings while working through this proje
 
 - I had added a top margin to the body when I realized I could easily center the whole card with {align-items: center}. 
 
-- I was fretting over the border-radius and margins, comparing the design to my code, when I remebered reading that the purpose is not to perfectly match the design but to have a solid code. So I let it go. 
+- I was fretting over the border-radius and margins, comparing the design to my code, when I remebered that the purpose is not to match the design perfectly but to have a solid code.
 
 
 ### Continued development
@@ -55,4 +55,4 @@ I just read about the Mobile-first workflow because it was mentioned in the "Bui
 
 ## Author
 
-- Frontend Mentor - [@FindingPlanB](https://www.frontendmentor.io/profile/FindingPlanB)
+Frontend Mentor Profile - <a href="https://www.frontendmentor.io/profile/FindingPlanB">@FindingPlanB</a>
