@@ -54,4 +54,4 @@ I just read about the Mobile-first workflow because it was mentioned in the "Bui
 
 ## Author
 
-Frontend Mentor Profile - ![@FindingPlanB](https://www.frontendmentor.io/profile/FindingPlanB)
+Frontend Mentor Profile - [@FindingPlanB](https://www.frontendmentor.io/profile/FindingPlanB)
