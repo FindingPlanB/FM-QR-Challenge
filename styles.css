@@ -69,3 +69,8 @@ p {
     color: hsl(228, 45%, 44%); 
 }
 
+.attribution a:hover a:focus { 
+    background-color: hsl(228, 45%, 44%); 
+    color: hsl(228, 45%, 90%);
+}
+
