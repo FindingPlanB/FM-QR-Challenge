@@ -41,7 +41,7 @@ This section is a recap of some of my learnings while working through this proje
 
 - For example: I had forgotten that color variables don't need to be placed in *{} but instead belong in :root{}. 
 
-- I had some trouble with resizing the image so it fit inside its box. Setting the max-width to 100% did the trick.
+- I had some trouble with resizing the QR image so it fit inside its box. Setting the max-width to 100% did the trick.
 
 - I had added a top margin to the body when I realized I could easily center the whole card with {align-items: center}. 
 

@@ -34,7 +34,7 @@ body {
 
 img {
     max-width: 100%;
-    border-radius: 10px;
+    border-radius: .65rem;
 }
 
 .text {
@@ -62,7 +62,6 @@ p {
     margin-bottom: 1rem;
     font-size: 11px; 
     text-align: center; 
-
 }
 
 .attribution a { 
